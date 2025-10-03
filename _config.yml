@@ -4,5 +4,4 @@ plugins:
 - jekyll-remote-theme
 
 header_pages: 
-- about.md
-- contact.md
+- projects.md
