@@ -9,6 +9,6 @@ My capstone project for my mechanical engineering degree was to build a 6 degree
 
 [Arm Documentation](https://docs.google.com/document/d/13uRC1JOV667TKkACFqtS4sCZ-jNgLG6Qm5oc5GuypL4/edit?usp=sharing)
 
-# Contact-Info
+# Contact Info
 [Linkedin](https://www.linkedin.com/in/jared-northrop/)  
 [Resume](https://docs.google.com/document/d/1LlL3hT_y2o_coPMuEbVCYdWE0l-Zv4zj8X2QgrYNk70/edit?usp=sharing)
