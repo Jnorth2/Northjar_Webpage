@@ -1,4 +1,9 @@
 title: Jared Northrop
+Description: 
+MS in Robotics Student at Oregon State University
+BS in Mechanical and Computer Science from Oregon State University
+
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
